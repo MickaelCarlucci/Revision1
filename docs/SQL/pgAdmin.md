@@ -29,7 +29,3 @@ Onglet Connection :
 ---
 
 Pour lancer des requêtes, il faut sélectionner une database et appuyer sur l'îcone `Query Tool`.
-
-`::` : transtypage
-`::interval` : permet de définir un intervalle. *exemple* :  
-`'1 day'::interval`
